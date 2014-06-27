@@ -2,6 +2,8 @@
 
 Setup a single machine torque machine in a VM with Vagrant.
 
+Modified from https://github.com/crcollins/torquecluster
+
 Useful for testing SCIENCE.
 
 ## Usage
